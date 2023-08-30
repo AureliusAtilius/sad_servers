@@ -1,0 +1,1 @@
+A small collection of bash script solutions for https://sadservers.com/
